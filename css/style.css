@@ -39,6 +39,7 @@ a{
     padding-top: 200px;
     margin: auto;
 }
+/* Hiding elements
 form{
     text-align: center;
 }
@@ -70,6 +71,7 @@ input[type="submit"]:hover {
   padding-top: 30px;
   margin-bottom: 300px;
 }
+*/
 #footer {
   background-color: rgb(36, 35, 35);
   border-top: 1px solid black;
