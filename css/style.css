@@ -1,8 +1,3 @@
-body{
-    background-color: #272727;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: #646262;
-}
 .content {
     align-content: center;
     align-items: center;
@@ -22,12 +17,12 @@ li{
     padding: 8px;
 }
 #sign_in{
-    background: #2b5780; 
+  background: rgba(255, 255, 255, 0.2); 
   margin-right: 25px;
   padding: 7px 15px;
   border-radius: 3px; 
   font-weight: bold;
-  color: aliceblue;
+  color: #f0f8ff;
 }
 a{
     text-decoration: none;
@@ -38,23 +33,6 @@ a{
     display: block;
     padding-top: 200px;
     margin: auto;
-}
-input[type="submit"] {
-  background-color: #F2F2F2;
-  border: 1px solid #F2F2F2;
-  border-radius: 2px;
-  color: #757575;
-  font-size: 13px;
-  font-weight: bold;
-  min-width: 54px;
-  padding: 7px 16px;
-  margin: 0 2px;
-}
-
-input[type="submit"]:hover {
-  border-color: #C6C6C6;
-  background-color: #F8F8F8;
-  color: #222;
 }
 #footer {
   background: rgba(255, 255, 255, 0.2);
@@ -75,11 +53,13 @@ input[type="submit"]:hover {
   padding-right: 27px;
 }
 body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   width: 100%;
   min-height: 100vh;
   background-image: linear-gradient(rgba(0,8,51,0.9),rgba(0,8,51,0.9)), url(../img/background.jpg);
   background-position: center;
   background-size: cover;
+  color: #cac7ff;
 }
 .container{
   display: flex;
