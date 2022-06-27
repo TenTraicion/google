@@ -41,7 +41,7 @@ a{
   position: absolute;
   bottom: 0;
   left: 0;
-  padding-bottom: 50px;
+  padding-bottom: 40px;
   backdrop-filter: blur(4px) saturate(180%);
 }
 #footer-left {
@@ -60,6 +60,7 @@ body{
   background-position: center;
   background-size: cover;
   color: #cac7ff;
+  margin: 0;
 }
 .container{
   display: flex;
