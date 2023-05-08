@@ -15,19 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-| ![image](img/logo.png) | - Create a Test |
-| ---------------------- | --------------- |
-| ![image](img/logo.png) | - Create a Test |
-| ^ | - another Test |
-
-| ![image](img/logo.png) | [x] Create a Test |
+| **:arrow_right_hook: Do this <br> :sparkle: Do That <br> :purple_circle: So What** | ![image](img/logo.png) |
 | ---------------------- | --------------- |
 | ![image](img/logo.png) | [x] Create a Test |
-| ^ | [x] another Test |
-
-| [x] Create a Test | ![image](img/logo.png) |
-| ---------------------- | --------------- |
-| ![image](img/logo.png) | [x] Create a Test |
-| - Another One | [x] another Test |
+| :warning: Another One | [x] another Test |
 | 1. Do this <br> 2. Do That | - Wth <br> - WTW |
 | **1. Do this <br> 2. Do That <br> 3. So What** | ![image](img/logo.png) |
