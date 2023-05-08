@@ -21,3 +21,13 @@ Here are some ideas to get you started:
 | ![image](img/logo.png) | - Create a Test |
 |                        | - Nothing       |
 | ---------------------- | --------------- |
+
+| ![image](img/logo.png) | - Create a Test |
+| ---------------------- | --------------- |
+| ![image](img/logo.png) | - Create a Test |
+| ^ | - another Test |
+
+| ![image](img/logo.png) | [x] Create a Test |
+| ---------------------- | --------------- |
+| ![image](img/logo.png) | [x] Create a Test |
+| ^ | [x] another Test |
