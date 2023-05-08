@@ -17,13 +17,6 @@ Here are some ideas to get you started:
 
 | ![image](img/logo.png) | - Create a Test |
 | ---------------------- | --------------- |
-
-| ![image](img/logo.png) | - Create a Test |
-|                        | - Nothing       |
-| ---------------------- | --------------- |
-
-| ![image](img/logo.png) | - Create a Test |
-| ---------------------- | --------------- |
 | ![image](img/logo.png) | - Create a Test |
 | ^ | - another Test |
 
@@ -31,3 +24,10 @@ Here are some ideas to get you started:
 | ---------------------- | --------------- |
 | ![image](img/logo.png) | [x] Create a Test |
 | ^ | [x] another Test |
+
+| [x] Create a Test | ![image](img/logo.png) |
+| ---------------------- | --------------- |
+| ![image](img/logo.png) | [x] Create a Test |
+| - Another One | [x] another Test |
+| 1. Do this <br> 2. Do That | - Wth <br> - WTW |
+| **1. Do this <br> 2. Do That <br> 3. So What** | ![image](img/logo.png) |
